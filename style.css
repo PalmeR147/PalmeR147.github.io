@@ -1,0 +1,37 @@
+.factionBox{
+	padding: 0;
+	margin: 0;
+	height: 50px;
+	width: 250px;
+	background-color:gray;
+	border: 1px solid black;
+}
+
+.factionName{
+	padding: 0;
+	margin: 0;
+	margin-left: 5px;
+	color: blue;
+	font-size: 125%;
+}
+
+.factionStanding{
+	padding: 0;
+	margin: 0;
+	margin-left: 5px;
+	display: inline-block;
+	float: left;
+	font-size: 100%;
+}
+
+.reputationProgress p{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+
+.reputationProgress{
+	background-color: darkgray;
+	float: right;
+	display: inline-block;
+}
